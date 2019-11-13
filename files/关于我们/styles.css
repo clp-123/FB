@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:2014px;
+  width:1255px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -667,42 +667,5 @@
   left:2px;
   top:2px;
   width:1239px;
-  word-wrap:break-word;
-}
-#u207_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:722px;
-  height:79px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:14px;
-  color:#0000FF;
-  text-align:left;
-}
-#u207 {
-  border-width:0px;
-  position:absolute;
-  left:1292px;
-  top:77px;
-  width:722px;
-  height:79px;
-  font-size:14px;
-  color:#0000FF;
-  text-align:left;
-}
-#u208 {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:2px;
-  width:718px;
   word-wrap:break-word;
 }
