@@ -93,6 +93,15 @@
 }
 .table_cell {
 }
+._连接符 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .ellipse {
 }
 .placeholder {
@@ -147,9 +156,6 @@
   text-align:left;
 }
 .menu_item {
-}
-.marker {
-  color:#FFFFFF;
 }
 .icon {
 }
